@@ -15,7 +15,7 @@ var state = {
   turn: 1,
   players: [
     {
-      name: 'Anne of Cleves',
+      name: 'Player One',
       food: 10,
       health: 10,
       skipTurn: false,
@@ -25,7 +25,7 @@ var state = {
       dead: false,
     },
     {
-      name: 'William the Bald',
+      name: 'Player Two',
       food: 10,
       health: 10,
       skipTurn: false,
